@@ -1,4 +1,4 @@
-module github.com/phil-sparks/GoRSS
+module github.com/philip-sparks/GoRSS
 
 go 1.22.4
 
